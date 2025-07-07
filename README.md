@@ -1,6 +1,6 @@
 
-<img src="https://github-readme-stats.vercel.app/api?username=samhomesss&show_icons=true&theme=tokyonight" width="500"/>
-<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=samhomesss&show_icons=true&theme=tokyonight&count_private=true" />
 
 
 <div style="display: flex; align-items: center; gap: 20px;">
