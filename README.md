@@ -1,26 +1,5 @@
-## Hi there 👋
-
-
-
 <img src="https://github.com/user-attachments/assets/ac51d79a-83fb-4dff-bf2f-3c575da30609" width="400"/>
 <img src="https://github.com/user-attachments/assets/40029b81-0cf8-41e0-8134-5a696e092a10" width="400"/>
 
 <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/f805334e-e7ca-4787-a650-ccb7116d2224"/>
 
-
-
-
-<!--
-**samhomesss/samhomesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
