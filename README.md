@@ -3,3 +3,6 @@
 
 <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/f805334e-e7ca-4787-a650-ccb7116d2224"/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samhomesss&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samhomesss&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
