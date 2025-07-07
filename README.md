@@ -2,6 +2,9 @@
 
 
 <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/f805334e-e7ca-4787-a650-ccb7116d2224" />
+![Image](https://github.com/user-attachments/assets/ac51d79a-83fb-4dff-bf2f-3c575da30609)
+
+
 <!--
 **samhomesss/samhomesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
