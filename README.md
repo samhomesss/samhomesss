@@ -9,7 +9,7 @@
 </a>
 
   <!-- Unity 로고 -->
-  <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/f805334e-e7ca-4787-a650-ccb7116d2224"/>
+  <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/f805334e-e7ca-4787-a650-ccb7116d2224"/>
 </div>
 
 
