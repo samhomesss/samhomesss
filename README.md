@@ -1,7 +1,4 @@
 
-<img src="https://github-readme-stats.vercel.app/api?username=samhomesss&show_icons=true&theme=tokyonight" width="500"/>
-<br/>
-
 <div style="display: flex; align-items: center; gap: 20px;">
   <!-- GitHub Stats -->
  <a href="https://github.com/anuraghazra/github-readme-stats">
